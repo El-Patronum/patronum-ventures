@@ -1,8 +1,9 @@
 # Ignore everything
 *
 
-# But don't ignore the Brandkit folder
+# But don't ignore the Brandkit folder and its contents
 !Brandkit/
+!Brandkit/**
 
 # Don't ignore this .gitignore file itself
 !.gitignore
